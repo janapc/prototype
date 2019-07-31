@@ -1,4 +1,4 @@
-# prototype
+# prototypeEmail
 prototype based in gmail of google
 
 ## Getting Started
