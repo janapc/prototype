@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "icon": "email-open-outline",
+    "title": "Inbox",
+    "messages": "33"
+  },
+  {
+    "id": 2,
+    "icon": "email-variant",
+    "title": "Main",
+    "messages": ""
+  },
+  {
+    "id": 3,
+    "icon": "account",
+    "title": "Social",
+    "messages": ""
+  },
+  {
+    "id": 4,
+    "icon": "star-outline",
+    "title": "Starred",
+    "messages": ""
+  },
+  {
+    "id": 5,
+    "icon": "bookmark-outline",
+    "title": "Important",
+    "messages": "1"
+  },
+  {
+    "id": 6,
+    "icon": "email-plus-outline",
+    "title": "Sent",
+    "messages": ""
+  },
+  {
+    "id": 7,
+    "icon": "file-document-outline",
+    "title": "Drafts",
+    "messages": ""
+  },
+  {
+    "id": 8,
+    "icon": "email-outline",
+    "title": "All e-mails",
+    "messages": "1"
+  },
+  {
+    "id": 9,
+    "icon": "alert-circle-outline",
+    "title": "Spam",
+    "messages": "5"
+  },
+  {
+    "id": 10,
+    "icon": "trash-can-outline",
+    "title": "Trash",
+    "messages": "+99"
+  },
+]

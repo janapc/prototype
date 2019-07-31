@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "color": "#4CB6AC",
+    "icon": "A",
+    "title": "Amazon.com",
+    "subTitle": "10% off",
+    "description": "Lorem ipsum dolor sit amet,consectetur adipiscing",
+    "star": false,
+    "time": "11:50"
+  },
+  {
+    "id": 2,
+    "color": "#F6BF25",
+    "icon": "B",
+    "title": "Booking.com",
+    "subTitle": "10% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": false,
+    "time": "11:30"
+  },
+  {
+    "id": 3,
+    "color": "#9CCC66",
+    "icon": "A",
+    "title": "Apple.com",
+    "subTitle": "10% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": true,
+    "time": "09:30"
+  },
+  {
+    "id": 4,
+    "color": "#66B1CC",
+    "icon": "G",
+    "title": "Google.com",
+    "subTitle": "10% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": false,
+    "time": "16:30"
+  },
+  {
+    "id": 5,
+    "color": "#A0887E",
+    "icon": "F",
+    "title": "Facebook.com",
+    "subTitle": "10% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": false,
+    "time": "17:34"
+  },
+  {
+    "id": 6,
+    "color": "#7986CC",
+    "icon": "T",
+    "title": "Twitter.com",
+    "subTitle": "10% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": true,
+    "time": "12:08"
+  },
+  {
+    "id": 7,
+    "color": "#EB6E48",
+    "icon": "I",
+    "title": "Instagram.com",
+    "subTitle": "10% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": false,
+    "time": "18:54"
+  },
+  {
+    "id": 8,
+    "color": "gray",
+    "icon": "G",
+    "title": "Google.com",
+    "subTitle": "70% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": false,
+    "time": "13:02"
+  },
+  {
+    "id": 9,
+    "color": "#BE92B7",
+    "icon": "S",
+    "title": "Store.com",
+    "subTitle": "40% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": true,
+    "time": "19:00"
+  },
+  {
+    "id": 10,
+    "color": "#9468B5",
+    "icon": "K",
+    "title": "Kabum.com",
+    "subTitle": "30% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": true,
+    "time": "17:15"
+  },
+  {
+    "id": 11,
+    "color": "#EB6E48",
+    "icon": "U",
+    "title": "Uol.com",
+    "subTitle": "10% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": false,
+    "time": "14:23"
+  },
+  {
+    "id": 12,
+    "color": "coral",
+    "icon": "L",
+    "title": "Logitech.com",
+    "subTitle": "14% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": true,
+    "time": "11:12"
+  },
+  {
+    "id": 13,
+    "color": "#67C38B",
+    "icon": "S",
+    "title": "Samsung.com",
+    "subTitle": "50% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "star": false,
+    "time": "15:23"
+  },
+  {
+    "id": 14,
+    "color": "chocolate",
+    "icon": "A",
+    "title": "Apple.com",
+    "subTitle": "20% off",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "star": true,
+    "time": "11:23"
+  }
+]
